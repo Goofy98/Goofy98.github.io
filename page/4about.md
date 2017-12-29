@@ -13,23 +13,16 @@ type: page
 
 <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 0px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-*2013.9.1*
-
-入伍
-
-*2015.9.1*
-
-退伍
 
 *2017.7.1*
 
-毕业于华东理工大学化工学院
+毕业于广州工商学院
 
 ## 联系我
 
 * **GitHub:**   [logan70](https://github.com/logan70)
-* **email:** logan70@163.com
-* **QQ:**  80233940
+* **email:** f950908@live.com
+* **QQ:**  857055826
 * [Weibo](http://weibo.com/)
 
 ## 关于本站
