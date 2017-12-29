@@ -20,7 +20,7 @@ type: page
 
 ## 联系我
 
-* **GitHub:**   [logan70](https://github.com/logan70)
+* **GitHub:**   [WaitFlying](https://github.com/WaitFlying)
 * **email:** f950908@live.com
 * **QQ:**  857055826
 * [Weibo](http://weibo.com/)
