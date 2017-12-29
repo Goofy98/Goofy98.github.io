@@ -10,7 +10,7 @@
 
 因为没有自己的博客所以fork了一份。谢谢原作者。
 
-**博客访问地址：[http://WaitFlying.github.io/](http://WaitFlying.github.io/)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
+**博客访问地址：[http://Goofy.github.io/](http://WaitFlying.github.io/)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
 
 ## 目录
 
