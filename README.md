@@ -8,9 +8,9 @@
 
 **[Click here to read english READEME.md 🇨🇳](https://github.com/logan70/logan70.github.io/blob/master/README-en.md)**
 
-随着 jekyll 的版本升级，同时我也想重构我的旧版博客主题，因此在这个月对博客进行了重构加改版，这个仓库存放我的新博客，并且我也会一直使用这个主题。目前基本改版完成，后续可能还会有些细节上的修补。
+因为没有自己的博客所以fork了一份。谢谢原作者。
 
-**博客访问地址：[http://WaitFlying.github.io/](http://logan70.github.io/)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
+**博客访问地址：[http://WaitFlying.github.io/](http://WaitFlying.github.io/)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
 
 ## 目录
 
