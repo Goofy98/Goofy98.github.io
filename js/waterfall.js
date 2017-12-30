@@ -14,14 +14,6 @@
      */
   var demoContent = [
     {
-      demo_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-      img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png',
-      code_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-      title: 'Fisher-Yates 洗牌算法动画',
-      core_tech: 'JavaScript',
-      description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="#">这里</a>。'
-    },
-    {
       demo_link: 'https://goofy98.github.io/banner',
       img_link: 'https://goofy98.github.io/images/banner-dome.png',
       code_link: 'https://goofy98.github.io/banner',
