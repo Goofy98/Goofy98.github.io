@@ -19,8 +19,17 @@
       code_link: 'https://codepen.io/haoyang/pen/jrvrQq',
       title: 'Fisher-Yates 洗牌算法动画',
       core_tech: 'JavaScript',
-      description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
+      description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="#">这里</a>。'
+    },
+    {
+      demo_link: 'https://goofy98.github.io/banner',
+      img_link: 'https://goofy98.github.io/images/banner-dome.png',
+      code_link: 'https://goofy98.github.io/banner',
+      title: 'glide.js banner轮播动画',
+      core_tech: 'JavaScript',
+      description: 'glide.js banner轮播动画。算法详情见 <a href ="https://github.com/Goofy98/banner">这里</a>。'
     }
+
   ];
 
   contentInit(demoContent) //内容初始化
