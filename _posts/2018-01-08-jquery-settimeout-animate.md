@@ -11,7 +11,7 @@ tags:  jQuery
 {:toc}
 
 # jQuery与setTimeOut
-setTimeOut内并不支持$(this)会变成windows的$(this)
+## setTimeOut内并不支持$(this)会变成windows的$(this)
 ```js
 var is = $(this);  //所以首先把$(this)赋值
 t=setTimeout(function(){               	
