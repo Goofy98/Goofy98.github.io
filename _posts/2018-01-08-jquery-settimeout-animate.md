@@ -27,7 +27,7 @@ t=setTimeout(function(){
 
 animate 并不支持display，所以想要使用display只能使用JQ中的show（）和hide（）或fadeIn（）和fadeOut（）
 
-##animate 中使用show（）和hide（）
+## animate 中使用show（）和hide（）
 
 - 显示 ：  `show()`  
 - 隐藏： `hide()` 因为hide（）执行是没有时间的所以直接放上去会连动画都没显示就直接隐藏了
